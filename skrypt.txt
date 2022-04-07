@@ -1,0 +1,7 @@
+
+function nowa(liczba){
+var liczbaNew=liczba + 1;
+return liczbaNew;
+}
+
+nowa(11);
